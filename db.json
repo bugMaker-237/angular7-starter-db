@@ -1,0 +1,34 @@
+{
+  "usermenus":[{
+    "id": "1",
+    "menus": [{
+        "path": "/persons",
+        "name": "Persons"
+      },
+      {
+        "path": "/enterprises",
+        "name": "Enterprises"
+      },
+      {
+        "path": "/settings",
+        "name": "settings"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "menus": [{
+      "path": "/persons",
+      "name": "Persons"
+    }]
+  },
+  {
+    "id": "3",
+    "menus": [{
+      "path": "/enterprises",
+      "name": "Enterprises"
+    }]
+  }
+]
+
+}
