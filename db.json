@@ -3,15 +3,18 @@
       "id": "1",
       "menus": [{
           "path": "/persons",
-          "name": "Persons"
+          "name": "People",
+          "icon": "contacts"
         },
         {
           "path": "/enterprises",
-          "name": "Enterprises"
+          "name": "Enterprises",
+          "icon": "business"
         },
         {
           "path": "/settings",
-          "name": "settings"
+          "name": "settings",
+          "icon": "settings"
         }
       ]
     },
@@ -19,14 +22,16 @@
       "id": "2",
       "menus": [{
         "path": "/persons",
-        "name": "Persons"
+        "name": "Persons",
+          "icon": "contacts"
       }]
     },
     {
       "id": "3",
       "menus": [{
         "path": "/enterprises",
-        "name": "Enterprises"
+        "name": "Enterprises",
+          "icon": "business"
       }]
     }
   ],
